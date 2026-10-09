@@ -67,6 +67,7 @@ flowchart LR
 11. [Troubleshooting](#11-troubleshooting)
 12. [Per-car checklist](#12-per-car-checklist)
 13. [References and credits](#13-references-and-credits)
+14. [Contributors](#14-contributors)
 
 ---
 
@@ -613,6 +614,15 @@ sudo systemctl restart NetworkManager
 - 🎮 Pololu RC servo multiplexer: <https://www.pololu.com/product/2806> · [user's guide](https://www.pololu.com/docs/0J60/all)
 - 🐍 Adafruit Blinka: <https://github.com/adafruit/Adafruit_Blinka>
 - 🖱️ ipyevents: <https://github.com/mwcraig/ipyevents>
+
+## 14. Contributors
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/SenSohom"><img src="https://avatars.githubusercontent.com/u/184140073?v=4" width="80" alt="SenSohom"/><br/><sub><b>SenSohom</b></sub></a></td>
+<td align="center"><a href="https://github.com/chistonejr"><img src="https://avatars.githubusercontent.com/u/104697036?v=4" width="80" alt="chistonejr"/><br/><sub><b>chistonejr</b></sub></a></td>
+</tr>
+</table>
 
 <div align="center">
 
